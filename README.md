@@ -1,1 +1,3 @@
 # lodash
+
+Lodash method implementation
